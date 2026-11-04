@@ -14,11 +14,12 @@ Distribution ZIPs are being prepared. Once available, download them from [Releas
 
 ## 기능 / Features
 
-- 폴더 또는 Content Browser에서 선택한 Texture2D 검사 / Audit folders or selected Texture2D assets.
+- 폴더·경로 기준 Texture2D 검사 / Audit Texture2D assets by folder or path.
 - 해상도, 압축, 알파, Mip, 스트리밍 설정 확인 / Inspect resolution, compression, alpha, mip and streaming settings.
 - 현재 Editor 포맷과 허용 Mip GPU 메모리 확인 / Inspect actual Editor formats and allowed-mip GPU memory.
 - 검토 순위와 권장 변경 표시 / Show review priorities and recommended changes.
 - 다중 선택 권장 적용과 우클릭 수동 설정 / Apply recommendations to multiple assets or change settings manually.
+- 우클릭으로 최초 변경 전 속성 복원, 프로젝트별 원래 설정 보관 / Restore pre-change properties from originals stored per project.
 - 검토 상태·수정 기록, Undo/Redo, F5 새로고침 / Review records, modification history, Undo/Redo and F5 refresh.
 - Reference Viewer·Content Browser 연동과 CSV 내보내기 / Reference Viewer, Content Browser and CSV export.
 
