@@ -8,9 +8,15 @@ Unreal Engine용 텍스처 검사 도구 · Texture auditing for Unreal Engine
 
 ## 다운로드 / Download
 
-배포 ZIP은 준비 중입니다. 배포가 시작되면 [Releases](https://github.com/DotheZac/TextureAuditTool/releases)에서 받을 수 있습니다. 이 저장소는 사용 안내와 피드백을 위한 공간이며, C++ 구현 소스를 포함하지 않습니다.
+**1.5.0 테스트 배포 / Pre-release — UE 5.7.4 · Win64**
 
-Distribution ZIPs are being prepared. Once available, download them from [Releases](https://github.com/DotheZac/TextureAuditTool/releases). This repository hosts documentation and feedback, not the C++ implementation source.
+- [플러그인 ZIP 다운로드 / Download plugin ZIP](https://github.com/DotheZac/TextureAuditTool/releases/download/v1.5.0/TextureAuditTool-1.5.0-UE5.7.4-Win64.zip)
+- [SHA256 체크섬 / SHA256 checksum](https://github.com/DotheZac/TextureAuditTool/releases/download/v1.5.0/TextureAuditTool-1.5.0-UE5.7.4-Win64.zip.sha256)
+- [배포 설명 / Release notes](https://github.com/DotheZac/TextureAuditTool/releases/tag/v1.5.0)
+
+플러그인 ZIP을 받아 압축을 풀고 `TextureAuditTool` 폴더를 프로젝트의 `Plugins`에 넣으세요. 이 저장소는 사용 안내·피드백 관리용이며 C++ 구현 소스를 포함하지 않습니다. GitHub의 `Source code` 또는 `Code → Download ZIP`은 설치 파일이 아닙니다.
+
+Extract the plugin ZIP and place the `TextureAuditTool` folder inside your project's `Plugins` folder. This repository hosts documentation and feedback, not the C++ implementation source. GitHub's `Source code` archives and `Code → Download ZIP` are not installable plugins.
 
 ## 기능 / Features
 
