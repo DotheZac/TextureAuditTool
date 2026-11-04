@@ -2,7 +2,7 @@
 
 Unreal Engine용 텍스처 검사 도구 · Texture auditing for Unreal Engine
 
-> **Translation note:** AI was used to translate the English text. Some wording may be awkward or inaccurate. Please let me know if anything is unclear.
+> **Translation note:** AI was used to translate the English text, so some wording may sound awkward. Please let me know if anything is unclear.
 
 **제작자 / Author:** DotheZac  
 **지원 환경 / Supported environment:** Unreal Engine 5.7 · Windows 64-bit · Editor only  
